@@ -12,7 +12,7 @@
 
 
 ## 京东wskey获取
-IOS抓包请使用Stream：[参考](https://carcloud.ml/page/3.html)
+IOS用户如果没有Shadowrocket 请使用Stream抓包：[参考](https://carcloud.ml/page/3.html)
 
 1. 打开京东APP
 2. 点击右上角消息按钮 如图 绿色框框包住的图标
