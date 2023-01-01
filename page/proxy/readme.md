@@ -17,7 +17,9 @@ IOS抓包请使用Stream：[参考](https://carcloud.ml/page/3.html)
 1. 打开京东APP
 2. 点击右上角消息按钮 如图 绿色框框包住的图标
 ![](https://files.catbox.moe/56m1k5.png)
+
 3. 等待消息页面加载完成后 返回购物车
 4. 返回购物车（注意：购物车需要至少有一件商品） 显示以下内容说明获取成功
 ![](https://files.catbox.moe/lklu76.png)
+
 5.获取成功会自动上传至服务器，无需进一步操作
