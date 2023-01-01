@@ -1,5 +1,5 @@
-## postern
-### 基本使用方法
+## Proxy使用
+### 软件实现代理【推荐】
 [Android下载](https://pan.tenire.com/down.php/8b63e9aebc55ce32a0d29f5e6dcd96b7.apk)
 [IOS下载](https://apps.apple.com/us/app/id932747118)
 此处以安卓为例说明：
@@ -10,6 +10,16 @@
 3. 打开VPN
 4. 抓包结束后请关闭VPN并退出软件
 
+### PAC 实现代理
+方便ios设备在不安装软件使用socks/http协议(安卓设备也能用,但是适配程度因机型和软件不一定生效)
+**使用方法**
+wifi代理里面选`自动(PAC)` （推荐使用http协议，socks5有点卡）
+```
+# socks5
+http://proxy.k-on.life:8989/help/pac/socks
+# http 【推荐】
+http://proxy.k-on.life:8989/help/pac/http
+```
 
 ## 京东wskey获取
 IOS用户如果没有Shadowrocket 请使用Stream抓包：[参考](https://carcloud.ml/page/3.html)
