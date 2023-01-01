@@ -1,4 +1,4 @@
-## Proxy使用
+## Proxy使用教程
 ### 软件实现代理【推荐】
 [Android下载](https://pan.tenire.com/down.php/8b63e9aebc55ce32a0d29f5e6dcd96b7.apk)
 [IOS下载](https://apps.apple.com/us/app/id932747118)
@@ -25,13 +25,26 @@ http://proxy.k-on.life:8989/help/pac/http
 
 ## 京东wskey获取
 IOS用户如果没有Shadowrocket 请使用Stream抓包：[参考](https://carcloud.ml/page/3.html)
-
-1. 打开京东APP
-2. 点击右上角消息按钮 如图 绿色框框包住的图标
+本文以软件方式获取为例说明
+1. 打开[http://proxy.k-on.life:8989/](http://proxy.k-on.life:8989/index.html)，点下一步到抓取账户
+2. 软件获取方式 1-3步骤
+3. 打开京东app
+4. 点击右上角消息按钮 如图 绿色框框包住的图标
 ![](https://files.catbox.moe/56m1k5.png)
 
-3. 等待消息页面加载完成后 返回购物车
-4. 返回购物车（注意：购物车需要至少有一件商品） 显示以下内容说明获取成功
+5. 等待消息页面加载完成后 返回购物车
+6. 返回购物车（注意：购物车需要至少有一件商品） 显示以下内容说明获取成功
 ![](https://files.catbox.moe/lklu76.png)
+7. 关闭VPN
 
-5.获取成功会自动上传至服务器，无需进一步操作
+- 获取成功会自动上传至服务器，无需其它操作
+- wskey内容查看请前往 我的-客户服务查看
+- 自动上传功能需要先打开[web端](http://proxy.k-on.life:8989/index.html)，再进行抓包操作
+
+## 更新日志
+2023-01-01 V0.1
+- 增加了对京东wskey的支持
+- 增加自动上传功能
+
+即将支持
+- 饿了么ck抓取
