@@ -10,7 +10,7 @@
 
 1. 打开 无痕|隐私|私密|InPrivate 窗口
 
-2. 打开https://www.miyoushe.com/ys/
+2. 打开打开 [米游社通行证](https://user.mihoyo.com/)/[米游社](https://www.miyoushe.com/ys/) 页面
 
 3. 打开开发者工具  
    每个人浏览器的情况可能都不一样，有英文的也有中文的，但不影响  
