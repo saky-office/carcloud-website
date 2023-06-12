@@ -16,7 +16,7 @@ pipx install nb-cli
 
 echo "==============================================="
 echo "             已成功安装NoneBot                  "
-echo "        1. 前往你需要安装bot的位置               "
+echo "        1. 前往你需要安装Bot的项目目录           "
 echo "       2. 输入命令 nb 创建你的第一个Bot          "
 echo "          更多请访问Wiki从创建项目开始阅读        "
 echo "  Wiki: https://nonebot.dev/docs/quick-start   "
