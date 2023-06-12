@@ -4,7 +4,7 @@ echo "           跨平台PYTHON异步机器人框架            "
 echo "             BY:shellblock.cn                  "
 echo "==============================================="
 
-# 安装python 3.8.1 环境
+# 安装python 3.9.5 环境
 wget https://carcloud.ml/sh/python3_9_install.sh && bash python3_9_install.sh
 
 # 安装 pipx
