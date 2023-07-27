@@ -13,7 +13,7 @@ ipv6：
 - 6C6670B4584287F3AC953E6BCF03EDE1E6D23BFBC3870650ACE73042
 
 
-## 2023-6-6
+## 2023-6-6 （废弃）
 - 新自动车http://ipv6.carcloud.ml:18999/ 上传需要设备支持ipv6网络
 - 访问 https://ipw.cn/ 查询ipv6支持情况
 - 原自动车https://car.ipikpak.ml:8443/ 将于6月7日永久停止访问
