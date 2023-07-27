@@ -2,8 +2,8 @@
 【**重要通知**】因马里政府回收 **ML** 域名，本站域名carcloud.ml及其关联域名即日起无法解析和使用，现已替换相关域名与服务网站如下：
 - 官网：https://carcloud.moelove.tk/
 - 京东/自动车：
- - ipv4网络：https://auto.moelove.tk/
- - ipv6网络：http://ipv6.012233.xyz:18999/ 或 http://535412.xyz:18999/
+   >ipv4网络：https://auto.moelove.tk/
+   >ipv6网络：http://ipv6.012233.xyz:18999/ 或 http://535412.xyz:18999/
 - CDK商店：https://store.moelove.tk/ 或 http://ipv6.012233.xyz:38689/
 
 ### 豆豆多密钥：
