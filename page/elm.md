@@ -1,10 +1,9 @@
 ## 饿了么 乐园币自动化
-
-
-
 ### 变量提交：
 抓取 nt2.ele.me域名下COOKIE值
+
 变量需包含`SID`,`USERID`,`_tb_token_`和`cookie2`, 如需微信公众号通知请添加`wxPuid`（`wxPuid`请扫描下方微信二维码获取,非抓包获取）
+
 变量格式如下：
 ```
 SID=xxxxx;USERID=xxxxx;_tb_token_=xxxxx;cookie2=xxxxx;wxPuid=UID_aaaaaaa;
