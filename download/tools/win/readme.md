@@ -1,2 +1,3 @@
 - [putty(汉化版).exe](./putty.exe)
 - [rufus-4.3.exe](./rufus-4.3.exe)
+- [ventoy-1.0.96-windows.zip](https://mirror.ghproxy.com/https://github.com/ventoy/Ventoy/releases/download/v1.0.96/ventoy-1.0.96-windows.zip)
