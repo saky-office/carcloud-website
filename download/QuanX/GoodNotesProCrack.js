@@ -10,7 +10,7 @@
 [rewrite_local]
   
 # ～GoodNotes6☆解锁会员权限（2023-08-11）@ddgksf2013
-^https:\/\/isi\.csan\.goodnotes\.com\/.+\/(receipts$|subscribers\/[^/]+$) url script-echo-response https://carcloud.moelove.tk/download/QuanX/raw/branch/main/GoodNotesProCrack.js
+^https:\/\/isi\.csan\.goodnotes\.com\/.+\/(receipts$|subscribers\/[^/]+$) url script-echo-response https://carcloud.moelove.tk/download/QuanX/GoodNotesProCrack.js
 ^https:\/\/isi\.csan\.goodnotes\.com\/.+\/subscribers\/[^/]+/(offerings|attributes)$ url request-header (\r\n)X-RevenueCat-ETag:.+(\r\n) request-header $1X-RevenueCat-ETag:$2
 
 [mitm] 
