@@ -5,7 +5,7 @@ echo "             BY:shellblock.cn                  "
 echo "==============================================="
 
 # 安装python 3.9.5 环境
-wget https://carcloud.ml/sh/python3_9_install.sh && bash python3_9_install.sh
+wget https://carcloud.moelove.email/sh/python3_9_install.sh && bash python3_9_install.sh
 
 # 安装 pipx
 python -m pip install --user pipx
